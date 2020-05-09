@@ -1,2 +1,3 @@
-# strimzi-eventhub
-Strimzi with Kafka Mirror Maker connected to Azure Event Hub
+# Strimzi: mirroring from Apache Kafka to Azure Event Hub
+
+![Overview](images/kafka-mirror-eventhub.png)
